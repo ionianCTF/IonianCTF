@@ -27,7 +27,8 @@ Welcome! This guide will help you follow the key steps to participate in the cyb
    - Register on the platform and explore the available CTF scenarios.
 
 4. **CTF Challenge: Network Forensics**
-    - Tools Required**: `tshark`, `Wireshark`, `NetworkMiner`  
+    - Tools Required: `tshark`, `Wireshark`, `NetworkMiner` (you can also use https://apackets.com/ or whatever to find deeper details using other tools). 
+    - Look at the CTF challenge with the  Name Network forensics and answer the questions/flags. 
     - File: [`WebInvestigation.pcap`](#) *(Download it from the repository)*  
     - Environment: Jupyter Notebook / Google Colab compatible
 
