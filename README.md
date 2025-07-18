@@ -27,13 +27,7 @@ Welcome! This guide will help you follow the key steps to participate in the cyb
    - Open the IP address on the browser.
    - Register on the platform and explore the available CTF scenarios.
 
-4. **CTF Challenge: Network Forensics**
-    - Tools Required: `tshark`, `Wireshark`, `NetworkMiner` (you can also use https://apackets.com/ or whatever to find deeper details using other tools). 
-    - Look at the CTF challenge with the  Name Network forensics and answer the questions/flags. 
-    - File: [`WebInvestigation.pcap`](#) *(Download it from the repository)*  
-    - Environment: Jupyter Notebook / Google Colab compatible
-
-6. **CTF Challenge: Mr. Robot VM**
+4. **CTF Challenge: Mr. Robot VM**
    - **Target:** A virtual machine modeled after the Mr. Robot TV series.
    - Walkthrough: https://medium.com/@cspanias/thms-mr-robot-ctf-walkthrough-2023-55ca5c19fbaf
    - You can download the .ova if you want, but the flags are different. https://www.vulnhub.com/entry/mr-robot-1,151/
@@ -46,7 +40,13 @@ Welcome! This guide will help you follow the key steps to participate in the cyb
      4. Privilege Escalation
      5. Capture the flag(s): typically 3 (key-1.txt, key-2.txt, root.txt)
 
-7. **CTF Challenge: R@VEN VM**
+5. **CTF Challenge: Network Forensics**
+    - Tools Required: `tshark`, `Wireshark`, `NetworkMiner` (you can also use https://apackets.com/ or whatever to find deeper details using other tools). 
+    - Look at the CTF challenge with the  Name Network forensics and answer the questions/flags. 
+    - File: [`WebInvestigation.pcap`](#) *(Download it from the repository)*  
+    - Environment: Jupyter Notebook / Google Colab compatible
+
+6. **CTF Challenge: R@VEN VM**
    - Advanced exploitation and privilege escalation. The machine has the MAC Address finishing in *****DB3. Do the netdiscover or arp-scan -l command to find out.
    - Walkthrough: https://dorian5.medium.com/vulnhub-raven-1-4c7122d5569f
    - You can download the .ova if you want, but the flags are different. https://www.vulnhub.com/entry/raven-1,256/
