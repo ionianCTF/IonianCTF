@@ -28,6 +28,8 @@ Welcome! This guide will help you follow the key steps to participate in the cyb
 
 4. **CTF Challenge: Mr. Robot VM**
    - **Target:** A virtual machine modeled after the Mr. Robot TV series.
+   - Walkthrough: https://medium.com/@cspanias/thms-mr-robot-ctf-walkthrough-2023-55ca5c19fbaf
+   - You can download the .ova if you want, but the flags are different. https://www.vulnhub.com/entry/mr-robot-1,151/
    -  The machine has the MAC Address finishing in *****555. Do the netdiscover or arp-scan -l command to find out.
    - Use tools like `nmap`, `gobuster`, `dirb`, `hydra`, and `Burp Suite`.
    - Basic flow:
@@ -39,6 +41,8 @@ Welcome! This guide will help you follow the key steps to participate in the cyb
 
 5. **CTF Challenge: R@VEN VM**
    - Advanced exploitation and privilege escalation. The machine has the MAC Address finishing in *****DB3. Do the netdiscover or arp-scan -l command to find out.
+   - Walkthrough: https://dorian5.medium.com/vulnhub-raven-1-4c7122d5569f
+   - You can download the .ova if you want, but the flags are different. https://www.vulnhub.com/entry/raven-1,256/
    - Try:
      - Web attacks (XSS, SQLi, LFI/RFI)
      - CVE-based exploitation
