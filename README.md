@@ -10,6 +10,7 @@ Welcome! This guide will help you follow the key steps to participate in the cyb
 1. **[Bandit - Wargames](https://overthewire.org/wargames/bandit/)**
    - Learn and practice Linux command-line basics in a gamified environment.
    - Recommended levels: **Level 0 to Level 10**
+   - Walkthrough: https://medium.com/@ismailahmedmohamed04/bandit-overthewire-all-levels-d12e8db8d5da and https://mayadevbe.me/posts/overthewire/bandit/overview/
    - Focus on: `ls`, `cat`, `find`, `grep`, `ssh`, `file`, `base64`, `cut`, `xxd`, `chmod`, etc.
 
 2. **Linux Fundamentals on Google Colab**
